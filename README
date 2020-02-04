@@ -1,0 +1,11 @@
+Buatlah aplikasi untuk menyimpan data ke dalam arraylist. Arraylist yang disimpan adalah arraylist dengan tipe penduduk. 
+Data penduduk yang disimpan adalah :
+1. NIK String
+2. NAMA String
+3. TTL String
+4. Jenis Kelamin, String
+5. Gol Darah, Int (A => 1, B => 2, AB => 3, O => 4)
+
+Input diberikan dari keyboard untuk setiap data. Data penduduk bisa diisi lebih dari 1 kali. 
+Setiap selesai mengisi 1 data, akan diberikan pilihan, apakah ingin mencetak data yang sudah diinput, atau ingin menambah data baru.
+
